@@ -1,2 +1,2 @@
-# .github
-About VVIP Kitchen
+# **VVIP Kitchen** 👨🏼‍🍳
+> A place where we cook!
